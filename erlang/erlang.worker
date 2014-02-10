@@ -1,0 +1,3 @@
+runtime 'binary'
+stack 'erlang'
+exec 'erlang.sh'

@@ -1,0 +1,3 @@
+runtime 'binary'
+stack 'php'
+exec 'php.sh'
