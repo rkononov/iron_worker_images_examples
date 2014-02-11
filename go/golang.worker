@@ -1,3 +1,0 @@
-runtime 'binary'
-stack 'go'
-exec 'golang.sh'

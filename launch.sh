@@ -1,5 +1,3 @@
-iron_worker upload erlang/erlang
-iron_worker upload go/golang
 iron_worker upload java/java
 iron_worker upload mono/mono
 iron_worker upload node/node
@@ -10,8 +8,6 @@ iron_worker upload ruby1.9/ruby1.9
 iron_worker upload ruby2.0/ruby2.0
 iron_worker upload scala/scala
 
-iron_worker queue erlang --wait
-iron_worker queue golang --wait
 iron_worker queue java --wait
 iron_worker queue mono --wait
 iron_worker queue node --wait
